@@ -1,0 +1,26 @@
+Proyecto 3
+
+David González Tamayo
+
+Entregables:
+
+Cada alumno enviará al profesor vía buzón:
+
+- El notebook .ipynb donde desarrolla los numerales 2.x y 3.x
+
+- La URI del S3 donde están los datos de entrada y salida del numeral 3.x 
+
+1) Ciudad_mayor_promedio_casos_diarios.csv: https://proyecto3buckets.s3.amazonaws.com/ciudad_mayor_promedio_casos_diarios.csv/part-00000-0187987b-e2d9-454b-b80d-b7407f45b6bf-c000.csv
+
+2) Distribucion_casos_por_edades.csv: https://proyecto3buckets.s3.amazonaws.com/distribucion_casos_por_edades.csv/part-00000-5b2f45d5-d235-463e-8113-f0c91a2b8f6e-c000.csv
+
+3) top_10_casos_por_ciudad.csv: https://proyecto3buckets.s3.amazonaws.com/top_10_casos_por_ciudad.csv/part-00000-8d65928a-85c5-48f6-a437-f356d1e476f9-c000.csv
+
+4) top_10_casos_por_departamento.csv: https://proyecto3buckets.s3.amazonaws.com/top_10_casos_por_departamento.csv/part-00000-bfb9ddbc-4793-4e20-a976-dcfd067e1308-c000.csv
+
+5) top_10_casos_por_dia.csv: https://proyecto3buckets.s3.amazonaws.com/top_10_casos_por_dia.csv/part-00000-518f1590-c004-44e3-9083-c2ec32bd7b5c-c000.csv
+
+- URL en youtube de la videosustentación: https://youtu.be/5W0AkpTpac8
+
+
+
